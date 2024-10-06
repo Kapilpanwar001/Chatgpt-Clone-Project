@@ -37,3 +37,27 @@ Welcome to the **ChatGPT App Clone**! This web application is built using the **
    ```bash
    git clone https://github.com/kapilpanwar001/chatgpt-app-clone.git
    cd chatgpt-app-clone
+
+
+   ## 📜 API Reference
+
+### Authentication
+
+- **POST /api/auth/register**: Register a new user.
+- **POST /api/auth/login**: Log in an existing user and receive a JWT.
+
+### Chat
+
+- **POST /api/chat**: Send a message to the ChatGPT model. Include the user message in the body of the request.
+
+## 🤝 Contributing
+
+Contributions are welcome! If you'd like to contribute, please follow these steps:
+
+1. **Fork the repository**.
+2. **Create a new branch** (`git checkout -b feature/YourFeature`).
+3. **Commit your changes** (`git commit -m 'Add some feature'`).
+4. **Push to the branch** (`git push origin feature/YourFeature`).
+5. **Open a pull request**.
+
+
