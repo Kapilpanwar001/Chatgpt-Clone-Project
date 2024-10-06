@@ -1,0 +1,29 @@
+{
+  "name": "chatgpt-project",
+  "version": "1.0.0",
+  "description": "Chat Gpt clone",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "client" : "npm start --prefix ./client",
+    "dev": "concurrently \"npm start server\" \"npm run client\""
+  },
+  "author": "Kapil Panwar",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.3",
+    "colors": "^1.4.0",
+    "concurrently": "^9.0.1",
+    "cookie": "^0.6.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.6.2",
+    "morgan": "^1.10.0",
+    "openai": "^4.62.1"
+  }
+}
