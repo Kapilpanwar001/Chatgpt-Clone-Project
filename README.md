@@ -38,8 +38,7 @@ Welcome to the **ChatGPT App Clone**! This web application is built using the **
    git clone https://github.com/kapilpanwar001/chatgpt-app-clone.git
    cd chatgpt-app-clone
 
-
-   ## 📜 API Reference
+## 📜 API Reference
 
 ### Authentication
 
