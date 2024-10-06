@@ -1,11 +1,5 @@
 # Chatgpt-Clone-Project 🎉
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/chatgpt-app-clone?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/chatgpt-app-clone?style=social)
-![Node.js](https://img.shields.io/badge/Node.js-v14+-green)
-![MongoDB](https://img.shields.io/badge/MongoDB-v4.0+-yellow)
-![React](https://img.shields.io/badge/React-v17+-blue)
-
 Welcome to the **ChatGPT App Clone**! This web application is built using the **MERN** stack (MongoDB, Express, React, Node.js) and integrates the **OpenAI API** to provide a chatbot experience similar to ChatGPT.
 
 ## 🚀 Features
@@ -41,5 +35,5 @@ Welcome to the **ChatGPT App Clone**! This web application is built using the **
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/chatgpt-app-clone.git
+   git clone https://github.com/kapilpanwar001/chatgpt-app-clone.git
    cd chatgpt-app-clone
